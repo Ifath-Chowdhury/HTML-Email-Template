@@ -4,7 +4,7 @@ A simple template with placeholder image and text for a HTML email. Made for the
 
 Live Demo: https://html-email-template-steel.vercel.app/
 
-<img src="email-temp-sc1.png" alt="Screenshot of the main page">
+<img src="assets/email-temp-sc1.png" alt="Screenshot of the main page">
 
 ---
 
@@ -51,9 +51,9 @@ The objective was to create a template for a responsive marketing email using HT
 
 ## Screenshots
 
-<img src="email-temp-sc1.png" alt="Screenshot of the main page">
+<img src="assets/email-temp-sc1.png" alt="Screenshot of the main page">
 
-<img src="email-temp-sc2.png" alt="Screenshot of the main page, but on a smaller window">
+<img src="assets/email-temp-sc2.png" alt="Screenshot of the main page, but on a smaller window">
 
 ---
 
